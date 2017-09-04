@@ -1,0 +1,6 @@
+class SpriteSheet {
+
+  SpriteSheet() {
+  }
+    
+}
